@@ -1,0 +1,8 @@
+{"level":"info","message":"Incoming request - Method: GET, URL: /exponentiation?base=2&exponent=3, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 3 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /squareroot?number=9, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Parameter 9 received for square root","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /squareroot?number=9, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Parameter 9 received for square root","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /squareroot?number=a, IP: ::1","service":"calculate-service"}
+{"level":"error","message":"Invalid number provided","service":"calculate-service"}
